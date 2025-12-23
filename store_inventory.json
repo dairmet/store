@@ -97,54 +97,6 @@
       "search_blob": "al hirt our man in new orleans"
     },
     {
-      "key": "al jolson||the best of al jolson",
-      "release_id": "2111047",
-      "variant_release_ids": [
-        "2111047"
-      ],
-      "qty": 1,
-      "artist": "Al Jolson",
-      "title": "The Best Of Al Jolson",
-      "year": "1962",
-      "decade": "1960s",
-      "country": "US",
-      "label": "Decca",
-      "catno": "DXA 169",
-      "genre": "Jazz",
-      "style": "Vocal",
-      "condition": "Not yet inspected",
-      "sleeve_condition": "",
-      "status": "available",
-      "price": "8.0",
-      "notes": "AUTOFLAG: no_median 2111047 | CLIPHTML: low=3.99 med=6.16 high=8.33 -> price=8",
-      "img": "images/8c01467ddb373082.jpeg",
-      "search_blob": "al jolson the best of al jolson"
-    },
-    {
-      "key": "al jolson||the jolson story \"rock-a-bye your baby...\"",
-      "release_id": "29174857",
-      "variant_release_ids": [
-        "29174857"
-      ],
-      "qty": 1,
-      "artist": "Al Jolson",
-      "title": "The Jolson Story \"Rock-A-Bye Your Baby...\"",
-      "year": "1980",
-      "decade": "1980s",
-      "country": "US",
-      "label": "MCA Records",
-      "catno": "MCA-27052",
-      "genre": "Jazz",
-      "style": "Vocal",
-      "condition": "Not yet inspected",
-      "sleeve_condition": "",
-      "status": "available",
-      "price": "8.0",
-      "notes": "AUTOFLAG: no_median 29174857 | Fallback: no Discogs price data",
-      "img": "images/a02fe9c14a9a1dd2.jpeg",
-      "search_blob": "al jolson the jolson story \"rock-a-bye your baby...\""
-    },
-    {
       "key": "alexander brailowsky||the 24 preludes",
       "release_id": "2072153",
       "variant_release_ids": [
@@ -191,54 +143,6 @@
       "notes": "AUTOFLAG: no_median 3028959 | CLIPHTML: low=0.5 med=2.0 high=10.38 -> price=8",
       "img": "images/d33a8eff7b5b5559.jpeg",
       "search_blob": "alexis weissenberg sonatas no. 62 in e-flat / no. 50 in d / no. 33 in c minor"
-    },
-    {
-      "key": "alfons bauer||music of the german alps",
-      "release_id": "8256713",
-      "variant_release_ids": [
-        "8256713"
-      ],
-      "qty": 1,
-      "artist": "Alfons Bauer",
-      "title": "Music Of The German Alps",
-      "year": "1959",
-      "decade": "1950s",
-      "country": "US",
-      "label": "Capitol Records",
-      "catno": "ST 10211",
-      "genre": "Folk, World, & Country",
-      "style": "",
-      "condition": "Not yet inspected",
-      "sleeve_condition": "",
-      "status": "available",
-      "price": "8.0",
-      "notes": "AUTOFLAG: no_median 8256713 | CLIPHTML: low=0.24 med=1.5 high=7.99 -> price=8",
-      "img": "images/c2f6882dbc671173.jpeg",
-      "search_blob": "alfons bauer music of the german alps"
-    },
-    {
-      "key": "alfons bauer and his hofbrau entertainers||more german beer-drinking music",
-      "release_id": "6507892",
-      "variant_release_ids": [
-        "6507892"
-      ],
-      "qty": 1,
-      "artist": "Alfons Bauer And His Hofbrau Entertainers",
-      "title": "More German Beer-Drinking Music",
-      "year": "1961",
-      "decade": "1960s",
-      "country": "US",
-      "label": "Capitol Records",
-      "catno": "T 10297",
-      "genre": "Folk, World, & Country",
-      "style": "",
-      "condition": "Not yet inspected",
-      "sleeve_condition": "",
-      "status": "available",
-      "price": "8.0",
-      "notes": "AUTOFLAG: no_median 6507892 | Fallback: no Discogs price data",
-      "img": "images/8f303f4834e19c99.jpeg",
-      "search_blob": "alfons bauer and his hofbrau entertainers more german beer-drinking music"
     },
     {
       "key": "alfred drake||the rubáiyát of omar khayyam & sohrab and rustum",
@@ -1265,30 +1169,6 @@
       "search_blob": "baja marimba band watch out!"
     },
     {
-      "key": "banda de aviación de madrid||spanish marches",
-      "release_id": "8537197",
-      "variant_release_ids": [
-        "8537197"
-      ],
-      "qty": 1,
-      "artist": "Banda De Aviación De Madrid",
-      "title": "Spanish Marches",
-      "year": "1978",
-      "decade": "1970s",
-      "country": "US",
-      "label": "Olympic Records (4)",
-      "catno": "OL-6146",
-      "genre": "Brass & Military",
-      "style": "Marches",
-      "condition": "Not yet inspected",
-      "sleeve_condition": "",
-      "status": "available",
-      "price": "8.0",
-      "notes": "AUTOFLAG: no_median 8537197 | Fallback: no Discogs price data",
-      "img": "images/4b728fadbd2f667e.jpeg",
-      "search_blob": "banda de aviación de madrid spanish marches"
-    },
-    {
       "key": "barbara dane||on my way",
       "release_id": "4324769",
       "variant_release_ids": [
@@ -1360,30 +1240,6 @@
       "notes": "AUTOFLAG: no_median 4536016 | Fallback: no Discogs price data",
       "img": "images/979d8fc979d014ff.jpeg",
       "search_blob": "barbra streisand barbra streisand's greatest hits - volume 2"
-    },
-    {
-      "key": "barry goldwater||acceptance speech republican national convention 1964",
-      "release_id": "27879489",
-      "variant_release_ids": [
-        "27879489"
-      ],
-      "qty": 1,
-      "artist": "Barry Goldwater",
-      "title": "Acceptance Speech Republican National Convention 1964",
-      "year": "1964",
-      "decade": "1960s",
-      "country": "US",
-      "label": "Greenleaf Records",
-      "catno": "M102-64-A",
-      "genre": "Non-Music",
-      "style": "Political",
-      "condition": "Not yet inspected",
-      "sleeve_condition": "",
-      "status": "available",
-      "price": "8.0",
-      "notes": "AUTOFLAG: no_median 27879489 | Fallback: no Discogs price data",
-      "img": "",
-      "search_blob": "barry goldwater acceptance speech republican national convention 1964"
     },
     {
       "key": "barry manilow||greatest hits",
@@ -17619,30 +17475,6 @@
       "search_blob": "morty lewis wichita lineman"
     },
     {
-      "key": "musikkorps der 11. panzer-grenadier-division||wir singen und marschieren",
-      "release_id": "7957162",
-      "variant_release_ids": [
-        "7957162"
-      ],
-      "qty": 1,
-      "artist": "Musikkorps Der 11. Panzer-Grenadier-Division",
-      "title": "Wir Singen Und Marschieren",
-      "year": "1963",
-      "decade": "1960s",
-      "country": "US",
-      "label": "Universe Records (6)",
-      "catno": "ULP-560",
-      "genre": "Brass & Military",
-      "style": "Brass Band",
-      "condition": "Not yet inspected",
-      "sleeve_condition": "",
-      "status": "available",
-      "price": "30.0",
-      "notes": "AUTOFLAG: no_median 7957162 | CLIPHTML: low=9.99 med=38.0 high=135.0 -> price=30",
-      "img": "images/7ee78500272b082a.jpeg",
-      "search_blob": "musikkorps der 11. panzer-grenadier-division wir singen und marschieren"
-    },
-    {
       "key": "nana mouskouri||christmas with nana mouskouri",
       "release_id": "30092816",
       "variant_release_ids": [
@@ -17937,15 +17769,15 @@
     },
     {
       "key": "nana mouskouri||spotlight on nana mouskouri",
-      "release_id": "15366964",
+      "release_id": "11105734",
       "variant_release_ids": [
-        "15366964"
+        "11105734"
       ],
       "qty": 1,
       "artist": "Nana Mouskouri",
       "title": "Spotlight On Nana Mouskouri",
-      "year": "1973",
-      "decade": "1970s",
+      "year": "",
+      "decade": "Unknown",
       "country": "Canada",
       "label": "Fontana",
       "catno": "6641 197",
@@ -17956,7 +17788,7 @@
       "status": "available",
       "price": "8.0",
       "notes": "AUTOFLAG: no_median 15366964 | Fallback: no Discogs price data",
-      "img": "images/3f7b2de0b89e97b1.jpeg",
+      "img": "images/18dbc4d4cf0f62f8.jpeg",
       "search_blob": "nana mouskouri spotlight on nana mouskouri"
     },
     {
@@ -21283,30 +21115,6 @@
       "notes": "AUTOFLAG: no_median 8055945 | CLIPHTML: low=0.41 med=1.21 high=6.16 -> price=8",
       "img": "images/7ee68861880739c9.jpeg",
       "search_blob": "roy drusky greatest hits vol 2"
-    },
-    {
-      "key": "rudolf heß||weihnacht 1936",
-      "release_id": "4176593",
-      "variant_release_ids": [
-        "4176593"
-      ],
-      "qty": 1,
-      "artist": "Rudolf Heß",
-      "title": "Weihnacht 1936",
-      "year": "",
-      "decade": "Unknown",
-      "country": "Liechtenstein",
-      "label": "Documentary Series",
-      "catno": "DS 377",
-      "genre": "Non-Music",
-      "style": "Political",
-      "condition": "Not yet inspected",
-      "sleeve_condition": "",
-      "status": "available",
-      "price": "8.0",
-      "notes": "AUTOFLAG: no_median 4176593 | CLIPHTML: low=1.0 med=7.15 high=26.67 -> price=8",
-      "img": "images/1e11b98129112396.jpeg",
-      "search_blob": "rudolf heß weihnacht 1936"
     },
     {
       "key": "rudolf serkin||concerto no. 1 in g minor / concerto no. 2 in d minor",
